@@ -15,7 +15,7 @@
 ## Installation
 
 Follow these steps to create a local copy of this repository so you can edit too!
-1. Navigate to https://github.com/stevecarofano/Homework-01
+1. Navigate to https://github.com/stevecarofano/Coding-Quiz
     
 2. Find the green **Code** button on the right-hand side, click it and copy the repository URL with HTTPS or SSH keys
     
