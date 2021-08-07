@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(48, 49, 51);
+}
+
+#head {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.startBtn {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#start, #submit {
+    font-size: 25px;
+}
+
+#quiz {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.question {
+    color: white;
+    padding: 35px;
+}
+
+.answers {
+    font-weight: bold;
+}
+
+#timer {
+    color: white;
+}
